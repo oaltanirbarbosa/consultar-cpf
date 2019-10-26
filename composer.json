@@ -1,0 +1,22 @@
+{
+    "name": "altanir/consultar-cpf",
+    "description": "Api para consulta de CPF com dados completos",
+    "require": {
+        "php": ">=5.3.8"
+    },
+    "require-dev": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Altanir Barbosa",
+            "email": "altaniraraujobarbosa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "ConsultarCpf": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
