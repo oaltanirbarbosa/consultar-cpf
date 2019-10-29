@@ -1,5 +1,5 @@
 {
-    "name": "altanir/consultar-cpf",
+    "name": "oaltanirbarbosa/consultar-cpf",
     "description": "Api para consulta de CPF com dados completos",
     "require": {
         "php": ">=5.3.8"
